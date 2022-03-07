@@ -1,0 +1,37 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    width: 100%;
+    text-align: center;
+}
+
+.heading h3 {
+    display: inline;
+}
+
+.heading button {
+    float: right;
+    border: 1px solid white;
+}
+
+#start, #status, #restart {
+    font-size: 22px
+}
+
+.modal-body {
+    text-align: left;
+    font-size: 22px;
+}
+
+#footer {
+    line-height: 2;
+    margin: 0;
+    bottom: 0;
+    background-color: cyan;
+}
+
+.modal-dialog {
+    width: 70%;
+}
